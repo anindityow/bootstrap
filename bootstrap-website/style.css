@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,700;0,800;0,900;1,700;1,800;1,900&display=swap");
+html {
+  color: #3b3b3b;
+  font-family: 'Mulish', sans-serif;
+}
+
+.color-primary {
+  color: #6874E8 !important;
+}
+
+.bg-primary {
+  background-color: #6874E8 !important;
+}
+
+.color-white {
+  color: #fff !important;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
+
+.color-violet {
+  color: #392759 !important;
+}
+
+.bg-violet {
+  background-color: #392759 !important;
+}
+
+.color-pink {
+  color: #F7ACCF !important;
+}
+
+.bg-pink {
+  background-color: #F7ACCF !important;
+}
+
+.fz-20 {
+  font-size: 24px;
+}
+
+.btn-primary {
+  color: #6874E8 !important;
+  background-color: #fff !important;
+  border: none;
+  font-size: 15px;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+  outline: none;
+}
+
+.btn-secondary {
+  color: #fff !important;
+  background-color: #6874E8 !important;
+  border: none;
+  font-size: 15px;
+}
+
+.btn-secondary:hover, .btn-secondary:active, .btn-secondary:focus {
+  outline: none;
+}
+
+.navbar-blue {
+  background-color: #6874E8 !important;
+  font-size: 15px;
+}
+
+.navbar-blue a {
+  color: #fff !important;
+}
+
+.navbar-blue .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.hero {
+  background-color: #E8F0FF;
+}
+
+.features {
+  background-color: #fff;
+}
+
+.footer {
+  background-color: #392759;
+  color: #E8F0FF;
+  font-size: 15px;
+}
+/*# sourceMappingURL=style.css.map */
